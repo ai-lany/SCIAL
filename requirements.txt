@@ -1,2 +1,7 @@
 python-dotenv
 flask
+flask-dance[sqla]
+requests_oauthlib
+dotenv
+blinker
+google-api-python-client
